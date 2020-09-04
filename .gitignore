@@ -15,7 +15,9 @@
 /public
 /src/serviceWorker.js
 /src/setupTests.js
-
+/.vscode
+.firebaserc
+firebase.json
 # misc
 
 .DS_Store
